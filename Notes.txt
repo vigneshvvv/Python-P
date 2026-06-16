@@ -1,0 +1,31 @@
+
+
+id -> variable name 
+= -> 
+value -> storing value 
+
+
+10  --> id 
+
++ = addition
+- = sub
+* = multiplication
+/ = division
+
+> - greater then
+< - less than
+>= - greater or equal to
+<= - less than or equal to 
+
+
+[10,20,30,40,50]
+ 
+ 0  1  2  3  4 - index
+
+list - > [] -> maintains order, Duplicate allow 
+set -> {}  -> doesn't allow duplicate. 
+
+
+public
+private 
+protected
